@@ -1,8 +1,8 @@
 {
   "packageName": "com.routemate.yongin8",
-  "versionCode": 15,
-  "versionName": "0.9.0",
-  "bytes": 47649291,
-  "sha256": "fce4577ed58e0b7f1df5b39391282b6ed68594d819f6f09897ba012e9b87f03c",
-  "apkUrl": "https://raw.githubusercontent.com/bbbdddyyy0807-cell/bbbdddyyy0807/main/daerongbus/DaerongBUS-0.9.0.apk"
+  "versionCode": 16,
+  "versionName": "0.9.1",
+  "bytes": 47651459,
+  "sha256": "7c91d8054a28ad6257675080bc26ee5ac6aec33224153e2cb8322858bf814de7",
+  "apkUrl": "https://raw.githubusercontent.com/bbbdddyyy0807-cell/bbbdddyyy0807/main/daerongbus/DaerongBUS-0.9.1.apk"
 }
